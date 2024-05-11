@@ -1,0 +1,3 @@
+- 'hello world' , I’m Eren
+- I’m interested in game dev.
+- I’m currently learning C# 
